@@ -1,7 +1,7 @@
 # [ACL 2026] StreamingEval: A Unified Evaluation Protocol towards Realistic Streaming Video Understanding
 
 <p align="center">
-  <img src="assets/fig1.png" width="95%">
+  <img src="assets/1.png" width="95%">
 </p>
 
 <p align="center">
