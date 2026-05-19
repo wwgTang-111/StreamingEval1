@@ -50,6 +50,9 @@ If you find this project useful in your research, please consider citing:
 }
 
 ```
+## Acknowledgments
+
+Project Supported by Shanghai General AI Foundation Models Program (Grant No. 2025SHZDZX025G16)
 ---
 
 ## License
