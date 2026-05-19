@@ -22,7 +22,13 @@
 Real-time, continuous understanding of visual signals is essential for real-world interactive AI applications, and poses a fundamental system-level challenge. Existing research on streaming video understanding, however, typically focuses on isolated aspects such as question-answering accuracy under limited visual context or improvements in encoding efficiency, while largely overlooking practical deployability under realistic resource constraints. To bridge this gap, we introduce StreamingEval, a unified evaluation framework for assessing the streaming video understanding capabilities of Video-LLMs under realistic constraints. 
 
 
+---
 
+##  Experimental result
+
+<p align="center">
+  <img src="leaderboard/2.png" width="95%">
+</p>
 
 
 ## Citation
