@@ -39,14 +39,13 @@ All the code is coming soon.
 If you find this project useful in your research, please consider citing:
 
 ```bibtex
-@misc{tang2026streamingevalunifiedevaluationprotocol,
-      title={StreamingEval: A Unified Evaluation Protocol towards Realistic Streaming Video Understanding}, 
-      author={Guowei Tang and Tianwen Qian and Huanran Zheng and Yifei Wang and Xiaoling Wang},
-      year={2026},
-      eprint={2603.21493},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2603.21493}, 
+@inproceedings{tang2026streamingeval,
+  title     = {StreamingEval: A Unified Evaluation Protocol towards Realistic Streaming Video Understanding},
+  author    = {Tang, Guowei and Qian, Tianwen and Zheng, Huanran and Wang, Yifei and Wang, Xiaoling},
+  booktitle = {Findings of the Association for Computational Linguistics: ACL 2026},
+  year      = {2026},
+  address   = {San Diego, California, USA},
+  publisher = {Association for Computational Linguistics}
 }
 
 ```
